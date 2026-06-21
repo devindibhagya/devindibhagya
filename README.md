@@ -45,4 +45,4 @@ A passionate Java developer and student focused on building desktop and database
 
 ### 🤝 Connect with me:
 - 📧 **Email:** <bhagyadevi709@gmail.com>
-- 💼 **LinkedIn:** [Bhagya Devindi]([your-profile](https://linkedin.com/in/your-username))
+- 💼 **LinkedIn:** [your-profile](https://www.linkedin.com/in/bhagya-devindi-7ab07433a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRnn2BfdUQnmuNP0935e%2BFw%3D%3D)
