@@ -36,7 +36,6 @@ A passionate Java developer and student focused on building desktop and database
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devindibhagya&show_icons=true&theme=radial" alt="Bhagya's GitHub Stats" />
 </p>
