@@ -69,9 +69,38 @@ I'm an enthusiastic **Information Technology undergraduate** at **SLIATE – Deh
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://gitanals.vercel.app/api?username=devindibhagya&theme=tokyonight" height="180"/>
-<img src="https://gitanals.vercel.app/api/languages?username=devindibhagya&theme=tokyonight" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devindibhagya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devindibhagya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devindibhagya&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devindibhagya&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devindibhagya&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devindibhagya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devindibhagya/devindibhagya/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 
 ---
 
