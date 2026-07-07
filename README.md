@@ -29,15 +29,12 @@ A passionate **Information Technology Student** and **Software Developer** focus
 
 ---
 
-### 📊 GitHub Analytics & Trophy
-
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=devindibhagya&show_icons=true&theme=tokyonight&count_private=true" alt="Bhagya's GitHub Stats" height="180px"/>&nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=devindibhagya&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://gitanals.vercel.app/api?username=devindibhagya&theme=tokyonight" alt="Bhagya's GitHub Stats" height="180px"/>&nbsp;
+  <img src="https://gitanals.vercel.app/api/languages?username=devindibhagya&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
-
 ---
 
 ### 🤝 Connect with me:
