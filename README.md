@@ -59,8 +59,6 @@ I'm an enthusiastic **Information Technology undergraduate** at **SLIATE – Deh
 
 * 🌐 Full-Stack Web Development
 * 💻 Software Engineering
-* 🗄️ Database Management Systems
-* ☕ Java Desktop Application Development
 * 🎨 UI/UX Design
 * 📱 Responsive Web Design
 
