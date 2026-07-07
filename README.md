@@ -87,20 +87,6 @@ I'm an enthusiastic **Information Technology undergraduate** at **SLIATE – Deh
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devindibhagya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devindibhagya/devindibhagya/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 
 ---
 
